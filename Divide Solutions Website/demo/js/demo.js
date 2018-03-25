@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
   particleground(document.getElementById('particles'), {
     dotColor:'#0497E0', 
     lineColor: '#F93943 ',
-    density: '15000',
+    density: '18000',
     particleRadius: '3',
     parallax: '2',
     
